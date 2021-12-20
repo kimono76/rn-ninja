@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://kz-spa.anonymous.rn-ninja.exp.direct",
+  "packagerNgrokUrl": "https://packager.kz-spa.anonymous.rn-ninja.exp.direct",
+  "ngrokPid": 6487,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
